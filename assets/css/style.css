@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #5663F7;
+  background: #1b4e50;
 }
 
 #header.header-transparent {
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled {
-  background: #000fb6;
+  background: #3f415f;
   opacity: 0.85;
   height: 60px;
 }
@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(2, 5, 161, 0.91);
+  background: #2c4de0ab;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -432,7 +432,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 span {
   color: #fff;
-  border-bottom: 4px solid #5663F7;
+  border-bottom: 4px solid #d756f7;
 }
 
 #hero h2 {
@@ -808,11 +808,7 @@ section {
   font-size: 14px;
 }
 
-.about .video-box {
-  background: url("../img/about.png") center center no-repeat;
-  background-size: contain;
-  min-height: 300px;
-}
+
 
 .about .play-btn {
   width: 94px;
